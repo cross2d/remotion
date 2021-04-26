@@ -1,4 +1,4 @@
-import {Player, PlayerMethods} from '@remotion/player';
+import {Player, PlayerMethods} from '@cross2d/remotion-player';
 import {useRef, useState} from 'react';
 import CarSlideshow from './CarSlideshow';
 

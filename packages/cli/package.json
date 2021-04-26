@@ -1,5 +1,5 @@
 {
-	"name": "@remotion/cli",
+	"name": "@cross2d/remotion-cli",
 	"version": "2.0.5",
 	"description": "CLI for Remotion",
 	"main": "dist/index.js",

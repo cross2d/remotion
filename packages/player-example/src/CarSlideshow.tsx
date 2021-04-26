@@ -1,5 +1,5 @@
 import React from 'react';
-import {interpolate, useCurrentFrame, useVideoConfig} from 'remotion';
+import {interpolate, useCurrentFrame, useVideoConfig} from '@cross2d/remotion';
 
 const CarSlideshow: React.FC<{
 	title: string;
